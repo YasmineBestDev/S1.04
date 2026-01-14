@@ -1,0 +1,17 @@
+Ci-dessous sont les sources utilisées lors de la réalisation de la S104 :
+
+https://stph.scenari-community.org/bdd/0/co/mod2c22.html
+
+https://warin.developpez.com/tutoriels/access/heritage-dans-base-donnees-access/
+
+https://www.base-de-donnees.com/cardinalites/
+
+https://www.mickael-martin-nevot.com/univ-amu/iut/but-informatique/creation-d-une-base-de-donnees-sae/?:s53-td1-merise-modele-conceptuel-des-donnees-mcd-avance.pdf
+
+Prompts 
+
+https://chatgpt.com/share/6967f6fa-8a10-8002-b641-a9f64b8ac993
+
+https://chatgpt.com/share/6967f7ad-169c-8002-afdf-8bb93f375ea9
+
+
